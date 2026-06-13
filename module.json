@@ -12,5 +12,5 @@
     ],
     "binary": "run.py",
     "runtime": "python3",
-    "post_installation_command": "pip3 -r requirements.txt"
+    "post_installation_command": "pip3 install -r requirements.txt"
 }
